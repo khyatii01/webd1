@@ -68,7 +68,6 @@ h6{
     background-color: #303b2e;
 }
 #sec{
-    border: 4px dashed #efebe3;
     margin:50px;
     height: 400px;
     width: 1400px;
@@ -132,4 +131,5 @@ p{
     width: 100%;
     color: black;
     background-color: #303b2e;
+    opacity: 0.5;
 }
